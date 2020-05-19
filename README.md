@@ -55,8 +55,6 @@ print(grid.best_score_)
 Save the Model
 # save your model by updating "your_name" with your name
 # and "your_model" with your model variable
-# be sure to turn this in to BCS
-# if joblib fails to import, try running the command to install in terminal/git-bash
 import joblib
 filename = 'your_name.sav'
 joblib.dump(model, filename)
