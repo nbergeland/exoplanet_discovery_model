@@ -1,4 +1,4 @@
-# exoplanet_discovery_model 
+# exoplanet_discovery_model
 README
 # Update sklearn to prevent version mismatches
 !pip install sklearn --upgrade
