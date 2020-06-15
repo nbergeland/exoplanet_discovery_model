@@ -1,4 +1,4 @@
-# machine-learning-challenge
+# exoplanet_discovery_model
 README
 # Update sklearn to prevent version mismatches
 !pip install sklearn --upgrade
