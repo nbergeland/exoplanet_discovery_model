@@ -119,4 +119,4 @@ print(
     f"Normal Neural Network - Loss: {model_loss}, Accuracy: {model_accuracy}")
 
 Normal Neural Network - Loss: 0.28015009994092194, Accuracy: 0.8838672637939453
-   
+  
